@@ -4,7 +4,7 @@
 
 ## Descripción
 
-E-Commerce Angular 17 es una aplicación de comercio electrónico que permite a los usuarios explorar una lista de productos, filtrarlos por categorías y gestionar su carrito de compras. La aplicación incluye secciones adicionales como **About** y **Services**, donde los usuarios pueden aprender más sobre el negocio y los servicios ofrecidos.
+E-Commerce es una aplicación de comercio electrónico desarrollada utilizando **Angular 17**. Permite a los usuarios explorar una lista de productos, filtrarlos por categorías y gestionar su carrito de compras, lo basico. La aplicación incluye secciones adicionales como **About** y **Services**, donde los usuarios pueden aprender más sobre el negocio y los servicios ofrecidos. Además, consume la **API de Platzi** para obtener los datos de los productos y categorías.
 
 ## Características
 
